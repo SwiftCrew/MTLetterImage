@@ -42,23 +42,23 @@ Get Image from a string.
 
 ``` swift
 
-  /// String text for image
-  var name: String
+   /// String text for image
+  public var name: String
   
   /// Image Background Color
-  var backgroundColor: UIColor
+  public var backgroundColor: UIColor
   
   /// Image Text Color
-  var textColor: UIColor
+  public var textColor: UIColor
   
   /// Image Size
-  var imageSize: CGSize
+  public var imageSize: CGSize
   
   /// Text Font
-  var font: UIFont
+  public var font: UIFont
   
   /// String Separater
-  var componentSeparatedBy: String
+  public var componentSeparatedBy: String
   
 ```
 
