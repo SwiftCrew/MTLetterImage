@@ -34,8 +34,7 @@ Get Image from a string.
 
 
 ## Result 
-<img src="https://ibb.co/tCfJSZF" alt="Latter Image" border="0" />
-
+<a href="https://ibb.co/tCfJSZF"><img src="https://i.ibb.co/SvT32QG/Simulator-Screen-Shot-i-Phone-XS-Max-2019-03-23-at-02-01-59.png" alt="Latter Image" border="0"></a>
 
 ## Created by
 Mohd Tahir, [@Mohd_Tahir99](https://twitter.com/Mohd_Tahir99)
