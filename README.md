@@ -1,6 +1,11 @@
 # MTLetterImage
 This is code if you want to create a UIImage of letters, This code takes the first letter of first and last word, if you want only first latter from string then change the DataProvider setting. Default Data is Set.
 
+## Requirements
+- iOS 8.0+
+- Xcode 10+
+- Swift 4.2
+
 ### Code
 
 Get Image from a string. 
@@ -65,6 +70,13 @@ Get Image from a string.
 
 ## Result 
 <a href="https://ibb.co/JqZRHHy"><img src="https://i.ibb.co/nBpsjjn/Simulator-Screen-Shot-i-Phone-XS-Max-2019-03-23-at-02-13-58.png" alt="Latter Image" border="0"></a>
+
+## Communication
+
+- If you found a bug, please open an issue. :bow:
+- Also, if you have a feature request, please open an issue. :thumbsup:
+- If you want to contribute, submit a pull request.:muscle:
+
 
 ## Created by
 Mohd Tahir, [@Mohd_Tahir99](https://twitter.com/Mohd_Tahir99)
