@@ -1,5 +1,6 @@
 # MTLetterImage
-This code will generate image from letters(words). Ex. Mohd Tahir image will be generate MT
+This code will generate image from letters(words). Ex. Mohd Tahir image will be generate MT, Choose your `wordsType` First, Last and Both.
+
 ## Requirements
 - iOS 8.0+
 - Xcode 10+
