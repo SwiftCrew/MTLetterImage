@@ -1,6 +1,5 @@
 # MTLetterImage
-This is code if you want to create a UIImage of letters, This code takes the first letter of first and last word, if you want only first latter from string then change the DataProvider setting. Default Data is Set.
-
+This code will generate image from letters(words). Ex. Mohd Tahir image will be generate MT
 ## Requirements
 - iOS 8.0+
 - Xcode 10+
