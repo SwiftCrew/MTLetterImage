@@ -112,19 +112,15 @@ public struct MTLetterImage {
   
   /// Get The First Word from string
   private static func firstWord(initials: inout String, initialsArray: [String]) {
-    if let firstWord = initialsArray.first {
-      if let firstLetter = firstWord.first {
-        initials += String(firstLetter).capitalized
-      }
+    if let firstWord = initialsArray.first, let firstLetter = firstWord.first {
+              initials += String(firstLetter).capitalized
     }
   }
   
   /// Get The last Word from string
   private static func lastWord(initials: inout String, initialsArray: [String]) {
-    if initialsArray.count > 1, let lastWord = initialsArray.last {
-      if let lastLetter = lastWord.first {
-        initials += String(lastLetter).capitalized
-      }
+    if initialsArray.count > 1, let lastWord = initialsArray.last, let lastLetter = lastWord.first {
+             initials += String(lastLetter).capitalized
     }
   }
 }
